@@ -53,6 +53,34 @@ The IDLE application has an amazing feature that helps programmers to debug thei
 
 Just like how some sentences if not constructed properly in English will not make sense , likewise the IDLE interpreter .The error message is usually in red color  like below .
 
+<img width="1031" height="259" alt="Screenshot 2026-09-21 124225" src="https://github.com/user-attachments/assets/ae091378-adec-45a4-9415-f117496e27c7" />
+
+
+
+
+
+
+
+As a Python programmer , you should be patient to read the error message in order to identify the underlying issue.
+In this error message it says *‘prin’ is not defined .Did you mean: ‘print’* 
+The IDLE has also identified that the issue is in line 1 (first line of code), showing you the exact area where the error message is.
+
+Lets take a look at the source file to identify the error (‘prin’) in our script.
+<img width="1000" height="255" alt="Screenshot 2026-09-21 124439" src="https://github.com/user-attachments/assets/7794d4e6-cbae-400a-9b77-eb1193e37a28" />
+
+In the source file , we can see exactly where the issue is .we were able to identify the error “prin” in the first line of code .If we should correct this error  to  ‘print’ and save the file once more, run it , we will have a an error free code for the IDLE to execute .
+
+
+And With That , the first module of the python programming essentials comes to an end .Introducing us to the history ,basics of programming language and Python programming preparing us for the more practical aspects of the course.
+
+
+## NOTE
+The next practical sessions in the other modules will be done on visual studio code.
+
+
+
+
+
 
 
 
