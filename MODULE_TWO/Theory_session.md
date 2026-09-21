@@ -36,3 +36,7 @@ the word print;
 
 
 Each of the above plays a very important role in the code.
+
+
+
+Check the other files to access the practical sessions 
