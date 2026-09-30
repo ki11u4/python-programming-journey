@@ -73,4 +73,5 @@ Programs need to receive input from users and display output back to them.
 
 ---
 
-Would you like to start with a specific concept, run through a practical code example combining all these parts, or practice with a quick exercise?
+Check the practical file to access some practical concepts 
+
