@@ -1,4 +1,3 @@
-Welcome to Module 2! This is where programming starts to feel real—moving from basic concepts into writing code that actually stores data, performs math, and talks to users.
 
 Here is a breakdown of what you'll be covering in this module:
 
